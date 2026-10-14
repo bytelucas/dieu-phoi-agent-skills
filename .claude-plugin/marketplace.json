@@ -1,0 +1,15 @@
+{
+  "name": "dieu-phoi",
+  "owner": {
+    "name": "Hieu NA"
+  },
+  "description": "Private agent skills for the dieu-phoi-api project.",
+  "plugins": [
+    {
+      "name": "dieu-phoi-skills",
+      "source": "./",
+      "description": "Agent skills for the dieu-phoi-api project.",
+      "category": "engineering"
+    }
+  ]
+}

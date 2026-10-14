@@ -1,0 +1,3 @@
+interface:
+  display_name: "Điều Phối Permission Sync"
+  short_description: "Sync matrix, guards, DBs, and the shared FE Sheet"

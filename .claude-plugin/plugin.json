@@ -1,0 +1,12 @@
+{
+  "name": "dieu-phoi-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for the dieu-phoi-api project.",
+  "author": {
+    "name": "Hieu NA"
+  },
+  "repository": "https://github.com/bytelucas/dieu-phoi-agent-skills",
+  "skills": [
+    "./skills/dieu-phoi-permission-sync"
+  ]
+}
